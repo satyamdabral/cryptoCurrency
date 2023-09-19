@@ -1,0 +1,15 @@
+.searchResultContainer{
+    overflow-y: scroll;
+}
+
+.searchContainer22{
+    margin-bottom: 1rem;
+}
+
+.searchContainer22 h3{
+    width: 5%;
+   
+}
+.searchContainer22 div{
+    width: 60%;
+}
